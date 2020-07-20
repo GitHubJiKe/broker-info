@@ -1,4 +1,4 @@
-const holdings = 5804.96;
+const holdings = 5796.31;
 
 const saveCost = 15000 / holdings;
 
@@ -12,7 +12,7 @@ const level2 = 17000 / holdings;
 const level3 = 18000 / holdings;
 const level4 = 19000 / holdings;
 const level5 = 20000 / holdings;
-console.log("curre:", 2.4014);
+console.log("curre:", 2.4303);
 console.log("|本息之和", "|卖出净值", "|利润率|");
 console.log("|------|------|------|");
 console.log("|15000:|", saveCost.toFixed(4), withPercent(0));
